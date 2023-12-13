@@ -1,0 +1,26 @@
+[
+  {
+    "id": 4,
+    "name": "Black Skateboard Helmet",
+    "price": 49.99,
+    "color": "Black",
+    "image": "/public/images/default.png",
+    "description": "High-quality black skateboard helmet for optimal protection."
+  },
+  {
+    "id": 5,
+    "name": "Red Skateboard Knee Pads",
+    "price": 29.99,
+    "color": "Red",
+    "image": "/public/images/default.png",
+    "description": "Red skateboard knee pads for safety and comfort during rides."
+  },
+  {
+    "id": 6,
+    "name": "Blue Skateboard Elbow Pads",
+    "price": 39.99,
+    "color": "Blue",
+    "image": "/public/images/default.png",
+    "description": "Blue skateboard elbow pads designed for flexibility and durability."
+  }
+]

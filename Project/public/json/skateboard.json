@@ -1,0 +1,26 @@
+[
+  {
+    "id": 7,
+    "name": "Green Classic Skateboard",
+    "price": 99.99,
+    "color": "Green",
+    "image": "/public/images/default.png",
+    "description": "Classic green skateboard with high-quality wheels and bearings."
+  },
+  {
+    "id": 8,
+    "name": "Purple Premium Skateboard",
+    "price": 119.99,
+    "color": "Purple",
+    "image": "/public/images/default.png",
+    "description": "Premium purple skateboard with a durable deck and precision trucks."
+  },
+  {
+    "id": 9,
+    "name": "Orange Smooth Ride Skateboard",
+    "price": 79.99,
+    "color": "Orange",
+    "image": "/public/images/default.png",
+    "description": "Orange skateboard designed for smooth rides and maneuverability."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Yellow Skateboard Tool Kit",
+    "price": 14.99,
+    "color": "Yellow",
+    "image": "/public/images/default.png",
+    "description": "Yellow skateboard tool kit with essential tools for maintenance."
+  },
+  {
+    "id": 2,
+    "name": "Silver Skateboard Backpack",
+    "price": 19.99,
+    "color": "Silver",
+    "image": "/public/images/default.png",
+    "description": "Silver skateboard backpack for carrying boards and gear."
+  },
+  {
+    "id": 3,
+    "name": "Pink Skateboard Grip Tape",
+    "price": 9.99,
+    "color": "Pink",
+    "image": "/public/images/default.png",
+    "description": "Pink skateboard grip tape for customizing and enhancing board grip."
+  }
+]
